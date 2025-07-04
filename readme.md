@@ -2,10 +2,41 @@
 
 A full-stack web application built with .NET Core API and React TypeScript frontend.
 
+## notlar
+
+# Dotnet
+
+dotnet watch
+    CTRL + C (durdur)
+    CTRL + R (yeniden baslat)
+
+# React
+
+```
+npm create vite@latest
+React
+TypeScript + SWC
+```
+
+```
+npm install
+npm run dev
+```
+
+### Mevcut Derste React 19.0.0 kullaniliyor###
+component'larimiz 18 uyumlu. bu sebeple 
+package.json dosyasindaki react versiyonunu degistirip
+`npm install` dersek kurulu olacaktir.
+
+## external link
+
+https://transform.tools/json-to-typescript
+
+
 ## Technologies Used
 
 - **Backend**: .NET Core, Entity Framework, SQLite
-- **Frontend**: React 18, TypeScript, Vite
+- **Frontend**: React 19, TypeScript, Vite
 - **Styling**: CSS
 
 ## Getting Started
