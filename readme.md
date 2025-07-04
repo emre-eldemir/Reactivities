@@ -1,15 +1,21 @@
-#Dotnet#
+#Dotnet
+
 dotnet watch
     CTRL + C (durdur)
     CTRL + R (yeniden baslat)
 
-#React#
-> npm create vite@latest
-o React
-o TypeScript + SWC
+#React
 
-> npm install
-> npm run dev
+```
+npm create vite@latest
+React
+TypeScript + SWC
+```
+
+```
+npm install
+npm run dev
+```
 
 ###Mevcut Derste React 19.0.0 kullaniliyor###
 component'larimiz 18 uyumlu. bu sebeple 
